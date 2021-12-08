@@ -4,4 +4,6 @@ struct Square {
     char col;
 
     public Square(int colour, int row, int col); 
+
+    
 }
